@@ -1,8 +1,8 @@
-package com.java.example1;
+package com.java.examples;
 
 import java.util.List;
 
-public class Example1 {
+public class IntermediateOpExample1 {
     public static void main(String[] args) {
         List<Integer> list = List.of(1, 5, 6, 3, 8, 9);
 
