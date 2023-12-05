@@ -3,6 +3,7 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/L04_stream_api_p3" />
+    <file type="web" url="file://$PROJECT_DIR$/L05_collectors_p1" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">

@@ -11,6 +11,15 @@
           </set>
         </option>
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/L05_collectors_p1" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../Tools/Gradle/gradle-8.4" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/L05_collectors_p1" />
+          </set>
+        </option>
+      </GradleProjectSettings>
     </option>
   </component>
 </project>
